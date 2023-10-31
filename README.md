@@ -2,7 +2,7 @@
 - 👀 I’m interested in programação web e banco de dados
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me +55 (11) 94052-6261
 
 <!---
 Gu-Sena/Gu-Sena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
